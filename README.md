@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/v-dobaba/2180017e-e458-4966-90b6-fc003b0d6471/8789b0d5-3c32-408f-aae9-1538325ad45f/_apis/work/boardbadge/482eab19-bf09-4e8a-a03e-cf26c3717631)](https://dev.azure.com/v-dobaba/2180017e-e458-4966-90b6-fc003b0d6471/_boards/board/t/8789b0d5-3c32-408f-aae9-1538325ad45f/Microsoft.RequirementCategory)
 
 ## Contributing
 
